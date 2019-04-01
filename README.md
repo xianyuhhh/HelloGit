@@ -1,4 +1,4 @@
-# HelloGit
+﻿# HelloGit
 This is a repository for you  to be familiar with some basic operation of Git and Github!
 Please add a new line to this readme.md file in the following format
 

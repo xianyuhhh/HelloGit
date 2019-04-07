@@ -19,3 +19,5 @@ Hello, Git! I am 聂安然(Annie0405)
 Hello,Git! I am 卜一珂(FB1106)
 
 Hello, Git! I am 张爽
+
+Hello, Git! I am 吴千阳

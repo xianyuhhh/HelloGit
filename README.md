@@ -22,3 +22,14 @@ Hello, Git! I am 张爽
 
 Hello, Git! I am 张国良. (hhhhhhhhhhhhhhhh)
 
+Hello, Git! I am 吕蒙.(到此一游 0.0）
+
+Hello,Git! I am Jin Huilin
+
+Hello, Git! I am chenweiwen
+
+Hello, Git! I am 郑雅洪. = =
+
+Hello，Git！I am 李肇绪
+
+

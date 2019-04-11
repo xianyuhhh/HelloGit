@@ -20,6 +20,8 @@ Hello,Git! I am 卜一珂(FB1106)
 
 Hello, Git! I am 张爽
 
+Hello, Git! I am 吴千阳
+
 Hello,Git! I am 张林元齐(Silence)
 
 hello,Git! I am 姜坤宇
@@ -35,4 +37,3 @@ Hello, Git! I am chenweiwen
 Hello, Git! I am 郑雅洪. = =
 
 Hello，Git！I am 李肇绪
-

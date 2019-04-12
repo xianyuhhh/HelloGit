@@ -37,5 +37,6 @@ Hello,Git! I am Jin Huilin
 Hello, Git! I am chenweiwen
 
 Hello, Git! I am 郑雅洪. = =
+Hello,Git!I am 郭心如。我翘课了，得赶紧走了，拜拜。
 
 Hello，Git！I am 李肇绪
